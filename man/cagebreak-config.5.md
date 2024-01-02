@@ -400,9 +400,9 @@ The supported modifiers are:
 
 *2 - Mod2*
 
-*3 - Mod 3*
+*3 - Mod3*
 
-*5 - Mod 5*
+*5 - Mod5*
 
 For example to specify the keybinding Control+t, the expression
 
